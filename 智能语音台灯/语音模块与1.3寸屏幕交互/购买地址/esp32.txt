@@ -1,0 +1,4 @@
+使用的是esp32S开发板 课程使用的同款可以跟 微信 jiangfengiot 联系购买 
+
+也可以在下方链接购买  选择板载ESP-32S开发板
+https://detail.tmall.com/item.htm?abbucket=10&id=669725821532&rn=3b72e02ea7268ec49dc517c00f0157f7&spm=a1z10.3-b-s.w4011-23204213264.38.37874ecdLEwsff&skuId=4822612149456

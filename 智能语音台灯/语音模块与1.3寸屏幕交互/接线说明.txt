@@ -1,0 +1,12 @@
+
+esp32S  	     屏幕
+GND	    GND
+3.3V	    VCC
+14	    SCL
+15	    SDA	    
+RES	    33
+DC	    27
+BLK	    22
+
+
+ESP
